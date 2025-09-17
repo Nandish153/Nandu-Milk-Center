@@ -1,16 +1,25 @@
-# 🚀 My Android App
+# 📱 MyApp (Android)
 
-This is an Android application built to [briefly explain what your app does – e.g., "help users check live weather updates" or "track daily expenses easily"].  
+MyApp is an Android application that helps users [briefly describe the purpose, e.g., track expenses, manage tasks, etc.].
 
-## 📱 Features
-- User-friendly interface  
-- [Feature 1 – e.g., Login/Signup functionality]  
-- [Feature 2 – e.g., Real-time data fetching]  
-- [Feature 3 – e.g., Dark mode support]  
-- [Feature 4 – e.g., Push notifications]  
+## 🚀 Features
+- User-friendly interface
+- [Feature 1: e.g., Add, edit, and delete tasks]
+- [Feature 2: e.g., Generates monthly reports]
+- [Feature 3: e.g., Offline support]
+
+## 📷 Screenshots
+(Add screenshots of your app here if possible)
+
+## 📦 Download APK
+You can download the latest APK from [releases](./apk/app-debug.apk).
 
 ## 🛠 Tech Stack
-- **Language**: Java / Kotlin  
-- **Framework**: Android SDK  
-- **IDE**: Android Studio  
-- **Libraries**: [Retrofit / Firebase / Room DB / Material UI etc.]  
+- Android Studio
+- Java/Kotlin
+- XML (UI)
+- [Any libraries you used]
+
+## 👤 Author
+[Nandish Goud] – [LinkedIn Profile](your-link)
+
